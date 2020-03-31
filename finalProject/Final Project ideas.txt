@@ -1,0 +1,13 @@
+MAS/CAMS 216
+Tuesday Nov 27, 2018
+Final Project Ideas
+
+I honestly don't know where to go with my final project. There's so many options that I can't really decide where to go. I think I can narrow my scope down 2 potential ideas.
+
+The first is to do something that is related to space (I am fascinated by space!!). I was playing around on Processing a few days ago and using a repeating image I found online I made an infinite loop of the image as it moved across the screen. If it's possible, I think it would be cool to add an option where clicking on the screen will result in a something (a black hole emerging? an explosion? a new planet?) that will stay on the image. Since the image also has planets, rockets, and UFOs, I thought it would also be cool to play different noises whenever the mouse moves over an object.
+
+The image: (https://all-free-download.com/free-vector/download/space-background-colored-repeating-icons-sketch_6827786.html) 
+
+The second idea I had is to do something related to swimming. I'm still not exactly sure how I would go about doing this (or how to make things waterproof) but I'm imagining sewing things into an old swim suit that would use lights to display something (flashing morse code? images of people swimming? a Wellesley W?). 
+
+I'm not sure how feasible either of these projects are, or if they even count as final projects but this is generally where I'm heading.

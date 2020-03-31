@@ -1,0 +1,15 @@
+MAS/CAMS 216
+December 17, 2018
+Final Project
+
+I decided to go with a space exploration themed final project. This project is a miniature simulation of what space can look like. After you click through the first 2 screens (a welcome page and an instructional page) you will enter a window with randomized stars that twinkle and a background that is ever changing. With the background I was hoping to imitate the glowing of nebulas and the Northern Lights, which is why they fade in and out.  The axis of the linear gradient is randomized, as is the color of the gradient though I set the parameters so that they would remain in the blues/purples range.
+
+Some of the additional elements I added are a comet and a black hole. 
+
+If you press 'c' a comet will appear. The comet will follow your mouse around (note how the tail of the comet is parallel to its direction of travel) until you hit 'c' again to make it go away. 
+
+The black hole (more appropriately, a white hole?) appears when you click on a spot in space. The entire universe will fade into nothing. A reset button will appear afterwards, which you can click to go back to space. 
+
+You can also click 'r' at any time while you are in space to shuffle the stars.
+
+If you forget what you can do with space, you can click 'h' and a help menu will appear with the instructions. You cannot pull up the help menu if you have created a black hole or when the reset button is present.
